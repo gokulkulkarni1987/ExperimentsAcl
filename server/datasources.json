@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "AclExperiments": {
+    "host": "ds243418.mlab.com",
+    "port": 43418,
+    "url": "",
+    "database": "acl_experiments",
+    "password": "admin123",
+    "name": "AclExperiments",
+    "user": "gokulkulkarnisoczen",
+    "connector": "mongodb"
+  }
+}
